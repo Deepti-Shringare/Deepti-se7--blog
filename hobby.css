@@ -1,0 +1,12 @@
+.drawing-main1{
+    display:flex;
+    justify-content: center;
+    gap:4.5vmin;
+    margin: 10px;
+}
+
+.drawing-main2{
+    display: flex;
+    justify-content: center;
+    gap:4.5vmin;
+}
